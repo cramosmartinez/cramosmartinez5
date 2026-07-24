@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src="[https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png](https://media.licdn.com/dms/image/v2/D4E03AQFl1W2OryhaxQ/profile-displayphoto-crop_800_800/B4EZviT7idIkAI-/0/1769028436074?e=1786579200&v=beta&t=BaCfxiSEaJP5DBazMsvSDDsYMioa_Ss1rlwgP2_4y4Q)"/>
      </p>
     </td>
   </tr>
