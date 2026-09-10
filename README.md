@@ -1,81 +1,76 @@
-### Hola 👋
-## Soy Carlos Ramos
-![](https://komarev.com/ghpvc/?username=cramosmartinez&color=0069b4)
+<div align="center">
+  <h1>Hi there, I'm Carlos Ramos 👋</h1>
+  <p><b>Digital Transformation Analyst & Software Engineer</b></p>
+
+  <img src="https://komarev.com/ghpvc/?username=cramosmartinez&color=0069b4&style=flat-square" alt="Views" />
+</div>
+
+<br />
 
 <table>
   <tr>
-    <td>
-      <h1> 
-      <h2> 💻 &nbsp;Sobre mí </h2>
-       <ul>
-        <li>🎓 &nbsp; Perito en informatica en <a href="https://www.kinal.org.gt/">KINAL</a></li>
-        <li>📚 &nbsp; Ingenierio en Sistemas en la <a href="https://www.umg.edu.gt/">UMG</a></li>
-        <li>👑 &nbsp; Desarrollador Junior Fullstack  </li>
-        <li>🤔 &nbsp; Interesado en Aprendizaje Automático y Optimización</li>
-       </ul>
-        <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cramosmartinez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
+    <td width="50%" valign="top">
+      <h3>💻 Sobre mí</h3>
+      <ul>
+        <li>🎓 <b>Perito en Informática</b> | <a href="https://www.kinal.org.gt/">KINAL</a></li>
+        <li>📚 <b>Ingeniería en Sistemas</b> | <a href="https://www.umg.edu.gt/">UMG</a></li>
+        <li>⚙️ <b>Especialista ERP & Integraciones</b> (Odoo, Dynamics 365, Alfresco)</li>
+        <li>💡 Apasionado por la optimización de procesos y desarrollo Fullstack</li>
+      </ul>
     </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="[https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png](https://media.licdn.com/dms/image/v2/D4E03AQFl1W2OryhaxQ/profile-displayphoto-crop_800_800/B4EZviT7idIkAI-/0/1769028436074?e=1786579200&v=beta&t=BaCfxiSEaJP5DBazMsvSDDsYMioa_Ss1rlwgP2_4y4Q)"/>
-     </p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cramosmartinez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
-  </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tecnologías que uso</h2>
-     <p align="center">
-         <br>
-       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cramosmartinez&layout=compact&langs_count=7&theme=algolia"/>
-
- </p>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-     <img src="https://img.shields.io/badge/-Reactjs-05122A?style=flat&logo=react"/>
-     <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
-     <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
-     <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-VisualBasic-05122A?style=flat&logo=visual-basic"/>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-   </td>
-   <td>
-    <div align="center">
-      <h2><b>Cómo contactarme</b></h2>
-      <br>
-      <p>No dudes en contactarme
-        <br>si necesitas más información o ayuda.
-      </p>
-     <br>
-      <a href="https://www.instagram.com/cramos212gt/" target="_blank">
-      <img align="center" alt="Carlos Javier Ramos Martínez | Instagram" width="30em" src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" />
-      </a> &nbsp;&nbsp;
-      <a href="mailto:cramosmartinez5@gmail.com" >
-      <img align="center" alt="Carlos Javier Ramos Martínez | Gmail" width="30em" src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/carlos-javier-ramos-martínez" >
-      <img align="center" alt="Carlos Javier Ramos Martínez | LinkedIn" width="30em" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />
-      </a> &nbsp;&nbsp;
-      <br>
-    </div>
-   </td>
   </tr>
 </table>
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+<p align="center">
+  <!-- Lenguajes & Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <br>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br>
+  <!-- Enterprise & DB -->
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <br>
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cramosmartinez&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 ¡Hablemos!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-javier-ramos-mart%C3%ADnez">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cramosmartinez5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/cramos212gt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
